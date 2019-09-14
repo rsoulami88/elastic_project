@@ -1,0 +1,10 @@
+flask
+pymongo
+slate3k
+bson
+pandas
+werkzeug
+flask_cors
+spellchecker
+pdf2image
+spacy
